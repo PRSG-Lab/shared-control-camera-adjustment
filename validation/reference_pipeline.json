@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "mode": "reference replay",
+  "version": "1.1.0",
+  "figure_count": 18,
+  "complete": true,
+  "paper_ready": true,
+  "fresh_production_rerun": false,
+  "matlab": "26.1.0.3312084 (R2026a) Update 4",
+  "created_utc": "2026-09-30 05:03:57 +0000",
+  "completed_run_resume_reused_all_four_stages": true
+}

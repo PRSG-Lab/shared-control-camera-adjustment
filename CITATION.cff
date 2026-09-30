@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this software release and the associated paper when available."
+type: software
+title: "Shared control errors in single-image space resection: MATLAB reproducibility package"
+version: 1.1.0
+date-released: "2026-09-30"
+license: MIT
+authors:
+  - family-names: Kim
+    given-names: Namhoon
+abstract: >-
+  MATLAB simulations, native-chart postprocessing, and publication figures and
+  tables for shared control errors in single-image space resection with
+  self-calibration. Includes compact retained numerical evidence and a
+  resumable pipeline for generating fresh experiments.
+keywords:
+  - photogrammetry
+  - space resection
+  - self-calibration
+  - correlated control
+  - uncertainty
+  - Gauss-Helmert model

@@ -1,0 +1,8 @@
+"Setting","Specification"
+"Camera","Image 6000 x 4000 px; image scale 3000 px; f=3500 px; principal point [25 -15] px; kappa=-0.08; centre [2 -1 1.5] m; rotation vector [0.15 -0.1 0.05] rad; mean depth 20 m"
+"Reference control (E01)","n=30; relative full depth width=0.15; local image STD=0.5 px; local XYZ STD=0.02 m; patch translation STD=0.02 m; MC maps=2000"
+"Reference variations (E01)","Noise STD multipliers [0.1 0.3 1 2]; depth widths [0.02 0.05 0.15 0.3]; point counts [13 30 60]; global translation STD=0.05 m"
+"Noise and geometry (E02, E04)","Regimes [n depth]=[30 0.15;30 0.05;30 0.02;13 0.15]; STD multipliers [0.03 0.1 0.3 1 2]; population 20 geometries per regime and 200 maps per geometry"
+"Misspecification (E03)","Shared variance multipliers [0.25 0.5 1 2 4]; structural models correct/no-global/no-patch/local-only; patch/global STDs 0.02/0.05 m"
+"Similarity and sources (E05, E06)","Rotation STDs [0.005 0.01] deg; extension [0.05 0.1] deg; translation STD=0.02 m; scale STD=20 ppm; [local XYZ patch global] scenarios=[0.02 0.02 0;0.005 0.02 0;0.005 0.03 0.03] m"
+"Targets and extension (E07)","5 x 5 grid; plane depths [10 20 40] m; tilts [0 60 75] deg; exact object points also projected to image; camera-only uncertainty"

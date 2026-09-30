@@ -1,0 +1,7 @@
+Condition / method,Gaussian (%),Fixed (%),Fitted log (%),Fitted direct (%),Precision ratio
+Reference / local,9.0,8.9,8.4,8.6,573.8
+Reference / full,95.0,94.8,94.7,94.7,81.0
+Narrow reference / full,95.0,60.8,59.4,86.7,889.0
+Narrow noise sweep / full,95.0,48.9,49.4,83.1,660.0
+Global 60 / local,0.4,0.6,0.4,0.5,579.6
+Omitted global,13.2,12.3,12.4,12.2,61.0

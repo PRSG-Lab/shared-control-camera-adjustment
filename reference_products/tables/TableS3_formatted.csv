@@ -1,0 +1,5 @@
+Geometry,Directions,Finest relative change,Predicted squared norm,Empirical squared norm,Max SE ratio
+G1,150,2.38e-05,0.033,0.044,1.40
+G2,150,6.38e-06,0.710,0.739,1.30
+G3,150,4.84e-06,34.060,38.708,1.33
+G4,65,2.56e-05,0.477,0.508,1.23

@@ -1,0 +1,22 @@
+{
+  "title": "Shared control errors in single-image space resection: MATLAB reproducibility package",
+  "upload_type": "software",
+  "description": "MATLAB simulations and integrated postprocessing for manuscript v0.19. Recreates main numerical Figures 2\u20136, Tables 1\u20135 and retained companion analyses. Includes compact reference evidence, reduced-model diagnostics, and a resumable fresh-experiment pipeline. Author-prepared Figure 1 is excluded.",
+  "creators": [
+    {
+      "name": "Kim, Namhoon"
+    }
+  ],
+  "version": "1.1.0",
+  "publication_date": "2026-09-30",
+  "license": "mit",
+  "access_right": "open",
+  "keywords": [
+    "photogrammetry",
+    "space resection",
+    "self-calibration",
+    "correlated control",
+    "Gauss-Helmert model",
+    "uncertainty"
+  ]
+}

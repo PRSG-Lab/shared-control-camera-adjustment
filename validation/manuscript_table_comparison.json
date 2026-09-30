@@ -1,0 +1,32 @@
+{
+  "manuscript_sha256": "69ecf02c54140925fa250255aba415b381ae07a65027065bc7f88d75019fc087",
+  "scope": "Exact displayed numeric cells; whitespace normalized; text label styles not scored.",
+  "tables": [
+    {
+      "table": 2,
+      "rows": 4,
+      "matching_numeric_cells": 16,
+      "passed": true
+    },
+    {
+      "table": 3,
+      "rows": 6,
+      "matching_numeric_cells": 30,
+      "passed": true
+    },
+    {
+      "table": 4,
+      "rows": 4,
+      "matching_numeric_cells": 24,
+      "passed": true
+    },
+    {
+      "table": 5,
+      "rows": 15,
+      "matching_numeric_cells": 45,
+      "passed": true
+    }
+  ],
+  "total_numeric_cells": 115,
+  "passed": true
+}

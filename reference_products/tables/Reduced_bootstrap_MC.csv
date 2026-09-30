@@ -1,0 +1,5 @@
+Suite,Condition,Component,N,Replicates,Empirical_SD,CI95_low,CI95_high,Monte_Carlo_SE,Resampling_plan
+J07,6,position,3000,10000,0.031921135904593,0.0311244345111475,0.0326948018461924,0.000401670679007483,"Fixed NumPy PCG64 seed 20260925 row-count plan, J07 then J08; no Python runtime needed"
+J07,6,focal,3000,10000,6.09335199148677,5.9392242248801,6.24487999633601,0.0775472054268353,"Fixed NumPy PCG64 seed 20260925 row-count plan, J07 then J08; no Python runtime needed"
+J08,5,position,3000,10000,0.101909293334906,0.0994455711591727,0.10430735597466,0.00125215626954453,"Fixed NumPy PCG64 seed 20260925 row-count plan, J07 then J08; no Python runtime needed"
+J08,5,focal,3000,10000,6.29468298573829,6.13688044826584,6.4474017297598,0.0792247626595495,"Fixed NumPy PCG64 seed 20260925 row-count plan, J07 then J08; no Python runtime needed"

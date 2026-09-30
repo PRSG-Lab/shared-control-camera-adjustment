@@ -1,0 +1,260 @@
+{
+  "passed": true,
+  "figure_count": 18,
+  "figure1_excluded": true,
+  "products": [
+    {
+      "id": "Figure2",
+      "pdf_pages": 1,
+      "pdf_text_characters": 656,
+      "png_pixels": [
+        3642,
+        2990
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "Figure3",
+      "pdf_pages": 1,
+      "pdf_text_characters": 232,
+      "png_pixels": [
+        3559,
+        1953
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "Figure4",
+      "pdf_pages": 1,
+      "pdf_text_characters": 486,
+      "png_pixels": [
+        3643,
+        3108
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "Figure5",
+      "pdf_pages": 1,
+      "pdf_text_characters": 661,
+      "png_pixels": [
+        3681,
+        1453
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "FigureS13",
+      "pdf_pages": 1,
+      "pdf_text_characters": 514,
+      "png_pixels": [
+        3434,
+        1566
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "Figure6",
+      "pdf_pages": 1,
+      "pdf_text_characters": 481,
+      "png_pixels": [
+        3747,
+        3074
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "FigureS9",
+      "pdf_pages": 1,
+      "pdf_text_characters": 623,
+      "png_pixels": [
+        3643,
+        3683
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "FigureS1",
+      "pdf_pages": 1,
+      "pdf_text_characters": 301,
+      "png_pixels": [
+        3667,
+        1858
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "FigureS2",
+      "pdf_pages": 1,
+      "pdf_text_characters": 485,
+      "png_pixels": [
+        3692,
+        3259
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "FigureS3",
+      "pdf_pages": 1,
+      "pdf_text_characters": 651,
+      "png_pixels": [
+        3720,
+        3245
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "FigureS4",
+      "pdf_pages": 1,
+      "pdf_text_characters": 671,
+      "png_pixels": [
+        3679,
+        3232
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "FigureS5",
+      "pdf_pages": 1,
+      "pdf_text_characters": 524,
+      "png_pixels": [
+        3665,
+        3343
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "FigureS6",
+      "pdf_pages": 1,
+      "pdf_text_characters": 491,
+      "png_pixels": [
+        3747,
+        3319
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "FigureS11",
+      "pdf_pages": 1,
+      "pdf_text_characters": 841,
+      "png_pixels": [
+        3678,
+        3421
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "FigureS7",
+      "pdf_pages": 1,
+      "pdf_text_characters": 452,
+      "png_pixels": [
+        3749,
+        3034
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "FigureS8",
+      "pdf_pages": 1,
+      "pdf_text_characters": 409,
+      "png_pixels": [
+        3679,
+        2931
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "FigureS10",
+      "pdf_pages": 1,
+      "pdf_text_characters": 270,
+      "png_pixels": [
+        3641,
+        2108
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    },
+    {
+      "id": "FigureS12",
+      "pdf_pages": 1,
+      "pdf_text_characters": 563,
+      "png_pixels": [
+        3679,
+        2986
+      ],
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "all_four_formats": true
+    }
+  ],
+  "visual_review": "PDF sheets and full-size PNGs inspected separately; no raster screenshots used as figure inputs."
+}

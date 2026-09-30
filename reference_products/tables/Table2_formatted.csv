@@ -1,0 +1,5 @@
+Method,Empirical scatter (m),Predicted scatter (m),Position coverage (%),Full-camera coverage (%)
+FIXED3D_WLS,0.28460,0.03589,0.7,0.0
+GH_LOCAL,0.28386,0.26479,91.1,8.4
+GH_MARGDIAG,0.28387,0.37274,99.4,40.9
+GH_FULL,0.27324,0.26991,95.2,94.7

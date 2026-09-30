@@ -1,0 +1,5 @@
+Regime,N_control,Depth_spread,Geometries,Total_trials,Log_mean_pct,Log_cluster_low_pct,Log_cluster_high_pct,Log_geometry_min_pct,Log_geometry_max_pct,Direct_mean_pct,Direct_cluster_low_pct,Direct_cluster_high_pct,Direct_geometry_min_pct,Direct_geometry_max_pct,Paired_change_pp,Change_cluster_low_pp,Change_cluster_high_pp,Geometries_increased,Geometries_equal,Geometries_decreased
+1,30,0.15,20,4000,94.3,93.525,95.1,91.5,97.5,94.35,93.625,95.075,91.5,97,0.0500000000000006,-0.149999999999999,0.25,5,10,5
+2,30,0.05,20,4000,87.325,84.875,89.225625,69.5,94,93.425,92.55,94.225,88,96,6.1,4.65,7.825625,20,0,0
+3,30,0.02,20,4000,55.95,51.824375,59.45,31.5,68,85.6,82.875,87.775,67,91.5,29.65,27.549375,31.775,20,0,0
+4,13,0.15,20,4000,92.775,90.925,94.275,82.5,96.5,94.25,92.825,95.4,86,97.5,1.475,0.95,2.05,16,3,1

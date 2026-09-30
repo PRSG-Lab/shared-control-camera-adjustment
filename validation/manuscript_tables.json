@@ -1,0 +1,275 @@
+{
+  "manuscript_version": "0.19",
+  "source_sha256": "69ecf02c54140925fa250255aba415b381ae07a65027065bc7f88d75019fc087",
+  "tables": [
+    [
+      [
+        "Setting",
+        "Specification"
+      ],
+      [
+        "Camera",
+        "6000×4000 pixels; sim=3000 pixels; f=3500 pixels; principal point (25,-15) pixels; kd=-0.08; centre (2,-1,1.5) m; rotation vector (.15,-.10,.05) rad"
+      ],
+      [
+        "Reference control (E01)",
+        "n=30, δz=.15; local image STD 0.5 pixels; local XYZ and four-patch translation STDs 0.02 m per axis; σ02=1"
+      ],
+      [
+        "Reference variations (E01)",
+        "Noise multipliers 0.1, 0.3, 1, 2; δz=.02,.05,.15,.30; n=13,30,60; separate global translation STD 0.05 m"
+      ],
+      [
+        "Noise and geometry (E02, E04)",
+        "G1–G4: (n,δz)=(30,.15),(30,.05),(30,.02),(13,.15); five paired noise multipliers 0.03, 0.1, 0.3, 1, 2; population uses 20 geometries per regime"
+      ],
+      [
+        "Misspecification (E03)",
+        "Shared-variance multipliers 0.25, 0.5, 1, 2, 4; structural omission compares correct, no-global, no-patch and local-only models under combined patch/global errors (STDs 0.02/0.05 m)"
+      ],
+      [
+        "Similarity and sources (E05, E06)",
+        "Rotations 0.005 and 0.01 degrees per axis, extended to 0.05 and 0.1 degrees at n=13,30,60; translation 0.02 m, scale 20 ppm; source scenarios use local XYZ/patch/global STDs (0.02,0.02,0), (0.005,0.02,0), (0.005,0.03,0.03) m"
+      ],
+      [
+        "Targets and extension (E07)",
+        "5×5 grids on perpendicular planes at 10, 20 and 40 m and planes tilted 60∘ and 75∘ at a 20 m axial intercept; exact object check points are also projected to the image; camera uncertainty only"
+      ]
+    ],
+    [
+      [
+        "Method",
+        "Empiricalscatter (m)",
+        "Predictedscatter (m)",
+        "Positioncoverage (%)",
+        "Full-cameracoverage (%)"
+      ],
+      [
+        "Fixed-3D",
+        "0.28460",
+        "0.03589",
+        "0.7",
+        "0.0"
+      ],
+      [
+        "GH local",
+        "0.28386",
+        "0.26479",
+        "91.1",
+        "8.4"
+      ],
+      [
+        "GH marginal",
+        "0.28387",
+        "0.37274",
+        "99.4",
+        "40.9"
+      ],
+      [
+        "GH full",
+        "0.27324",
+        "0.26991",
+        "95.2",
+        "94.7"
+      ]
+    ],
+    [
+      [
+        "Condition and method",
+        "Gaussiancoverage (%)",
+        "Fixedcoverage (%)",
+        "Fitted log-focalcoverage (%)",
+        "Fitted direct-focalcoverage (%)",
+        "Precisionratio"
+      ],
+      [
+        "Reference / local",
+        "9.0",
+        "8.9",
+        "8.4",
+        "8.6",
+        "573.8"
+      ],
+      [
+        "Reference / full",
+        "95.0",
+        "94.8",
+        "94.7",
+        "94.7",
+        "81.0"
+      ],
+      [
+        "Narrow reference / full",
+        "95.0",
+        "60.8",
+        "59.4",
+        "86.7",
+        "889.0"
+      ],
+      [
+        "Narrow noise sweep / full",
+        "95.0",
+        "48.9",
+        "49.4",
+        "83.1",
+        "660.0"
+      ],
+      [
+        "Global 60 / local",
+        "0.4",
+        "0.6",
+        "0.4",
+        "0.5",
+        "579.6"
+      ],
+      [
+        "Omitted global",
+        "13.2",
+        "12.3",
+        "12.4",
+        "12.2",
+        "61.0"
+      ]
+    ],
+    [
+      [
+        "n",
+        "δz",
+        "Log-focal mean[95% interval] (%)",
+        "Direct-focal mean[95% interval] (%)",
+        "Log-focalrange (%)",
+        "Direct-focalrange (%)"
+      ],
+      [
+        "30",
+        "0.15",
+        "94.30[93.53–95.10]",
+        "94.35[93.63–95.08]",
+        "91.5–97.5",
+        "91.5–97.0"
+      ],
+      [
+        "30",
+        "0.05",
+        "87.33[84.88–89.23]",
+        "93.43[92.55–94.23]",
+        "69.5–94.0",
+        "88.0–96.0"
+      ],
+      [
+        "30",
+        "0.02",
+        "55.95[51.82–59.45]",
+        "85.60[82.88–87.78]",
+        "31.5–68.0",
+        "67.0–91.5"
+      ],
+      [
+        "13",
+        "0.15",
+        "92.78[90.93–94.28]",
+        "94.25[92.83–95.40]",
+        "82.5–96.5",
+        "86.0–97.5"
+      ]
+    ],
+    [
+      [
+        "Condition / plane",
+        "GH-fullRMSE (m)",
+        "GH-fullcoverage (%)",
+        "GH-localcoverage (%)"
+      ],
+      [
+        "Reference / 10 m",
+        "0.071–0.101",
+        "95.0–96.1",
+        "89.6–91.8"
+      ],
+      [
+        "Reference / 20 m",
+        "0.016–0.023",
+        "94.1–95.4",
+        "32.4–40.4"
+      ],
+      [
+        "Reference / 40 m",
+        "0.130–0.212",
+        "95.0–96.0",
+        "89.4–92.4"
+      ],
+      [
+        "Reference / 60∘",
+        "0.025–0.159",
+        "94.4–95.9",
+        "39.4–88.6"
+      ],
+      [
+        "Reference / 75∘",
+        "0.045–2.443",
+        "94.4–96.1",
+        "39.5–91.3"
+      ],
+      [
+        "Narrow / 10 m",
+        "0.236–0.493",
+        "93.9–95.5",
+        "70.2–82.3"
+      ],
+      [
+        "Narrow / 20 m",
+        "0.020–0.024",
+        "93.5–95.5",
+        "33.8–58.1"
+      ],
+      [
+        "Narrow / 40 m",
+        "0.436–0.991",
+        "93.7–96.1",
+        "70.4–82.6"
+      ],
+      [
+        "Narrow / 60∘",
+        "0.032–0.576",
+        "93.6–95.8",
+        "54.7–79.6"
+      ],
+      [
+        "Narrow / 75∘",
+        "0.057–16.063",
+        "90.0–95.8",
+        "54.7–77.6"
+      ],
+      [
+        "Global 60 / 10 m",
+        "0.088–0.101",
+        "94.2–95.0",
+        "60.2–67.1"
+      ],
+      [
+        "Global 60 / 20 m",
+        "0.072–0.078",
+        "93.7–95.0",
+        "1.6–3.5"
+      ],
+      [
+        "Global 60 / 40 m",
+        "0.115–0.155",
+        "94.2–95.2",
+        "83.6–88.6"
+      ],
+      [
+        "Global 60 / 60∘",
+        "0.101–0.180",
+        "93.9–95.1",
+        "1.5–48.3"
+      ],
+      [
+        "Global 60 / 75∘",
+        "0.155–1.460",
+        "94.2–95.2",
+        "1.5–91.5"
+      ]
+    ]
+  ]
+}

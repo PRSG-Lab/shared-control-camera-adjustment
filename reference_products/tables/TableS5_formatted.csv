@@ -1,0 +1,4 @@
+Plane depth (m),GH-local reported trace (m2),Full minus local trace (m2),Empirical/local trace ratio
+10,0.00303197,0.00532781,2.8453
+20,0.00003921,0.00532781,145.5669
+40,0.01145400,0.00532781,1.4996

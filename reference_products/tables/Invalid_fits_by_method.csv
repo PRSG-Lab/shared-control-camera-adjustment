@@ -1,0 +1,13 @@
+Method,Invalid_fits
+FIXED3D_WLS,98
+GH_LOCAL,75
+GH_MARGDIAG,74
+GH_FULL,9
+FULL_alpha_0.25,0
+FULL_alpha_0.5,0
+FULL_alpha_1,0
+FULL_alpha_2,0
+FULL_alpha_4,0
+FULL_correct,0
+omit_global,0
+omit_patch,0

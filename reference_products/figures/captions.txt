@@ -1,0 +1,36 @@
+Figure2. Reduced-camera position uncertainty under (a) increasing points per plane, (b) more independently referenced planes, (c) greater relative depth width and (d) global datum uncertainty. Empirical curves use 3,000 realisations per condition; analytical limits are population quantities for within-plane density tending to infinity. The plane-error standard deviation is 0.02 m unless otherwise labelled.
+
+Figure3. Coverage responds to (a) structural covariance omission under combined patch and global translation errors and (b) the assumed patch-translation variance in a separate patch-only experiment. The multiplier in (b) changes the variance used by the adjustment, while the observations are held fixed across treatments.
+
+Figure4. Log-focal full-camera coverage is evaluated across observation noise levels and fixed and sampled control geometries.
+
+Figure5. Paired focal-coordinate displays and full-camera Wald tests reveal coordinate sensitivity in the narrow noise-sweep experiment.
+
+FigureS13. Illustrative mean-covariance outlines and focal-axis extents distinguish marginal regions, joint slices and nonlinear coordinate mapping.
+
+Figure6. Object-coordinate error and coverage are compared across reference planes in the narrow control geometry.
+
+FigureS9. Image-target error and coverage are compared across reference, narrow-depth and global-translation conditions.
+
+FigureS1. Hidden shared modes and camera parameter blocks determine analytical position scatter.
+
+FigureS2. Linear Gaussian experiments verify the analytical covariance and residual-energy identities.
+
+FigureS3. Reduced-camera experiments compare the effects of point density and independently supported planes.
+
+FigureS4. Shared similarity perturbations affect camera scatter and coverage across control-point counts.
+
+FigureS5. Shared-error source experiments compare camera scatter, coverage and variance contributions.
+
+FigureS6. Supplementary diagnostics compare coverage, normalised estimation errors and parameter-block uncertainty.
+
+FigureS11. Residual diagnostics and position coverage are compared across noise, geometry and shared-error conditions.
+
+FigureS7. Fixed-design Gaussian, fixed-covariance nonlinear and fitted-covariance diagnostics separate sources of joint undercoverage.
+
+FigureS8. Second-order bias predictions are compared with empirical camera biases in units of Monte Carlo standard error.
+
+FigureS10. Camera and position coverage respond differently to shared-variance misspecification and simplified covariance treatments.
+
+FigureS12. Stronger shared rotations increase covariance-omission effects as the number of control points grows.
+

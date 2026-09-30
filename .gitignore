@@ -1,0 +1,12 @@
+# Generated experiments and raw archives belong in the data release.
+/runs/
+/results/
+/raw/
+/checkpoints/
+/validation/runtime/
+*.asv
+*.m~
+*.log
+.DS_Store
+RUNNING.lock
+# data/reference/*.mat are intentional, versioned reproducibility data.

@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "budget_pause": true,
+  "checkpoint_reused": true,
+  "source_identity_guard": true,
+  "launcher_path_restored": true,
+  "figure_count": 18,
+  "full_smoke_pipeline": true,
+  "paper_ready": false,
+  "matlab": "26.1.0.3312084 (R2026a) Update 4",
+  "fit_accounting": {
+    "Conditions": 51,
+    "Condition_realisations": 153,
+    "Fits": 624,
+    "Valid_fits": 624,
+    "Invalid_fits": 0,
+    "Fits_above_four_per_realisation": 12
+  },
+  "created_utc": "2026-09-30"
+}

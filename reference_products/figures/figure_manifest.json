@@ -1,0 +1,200 @@
+[
+  {
+    "id": "Figure2",
+    "caption": "Reduced-camera position uncertainty under (a) increasing points per plane, (b) more independently referenced planes, (c) greater relative depth width and (d) global datum uncertainty. Empirical curves use 3,000 realisations per condition; analytical limits are population quantities for within-plane density tending to infinity. The plane-error standard deviation is 0.02 m unless otherwise labelled.",
+    "source": "Analytical/reduced-camera verification; F03/F04/F07",
+    "files": {
+      "png": "Figure2.png",
+      "pdf": "Figure2.pdf",
+      "fig": "Figure2.fig"
+    },
+    "data_file": "Figure2_data.mat"
+  },
+  {
+    "id": "Figure3",
+    "caption": "Coverage responds to (a) structural covariance omission under combined patch and global translation errors and (b) the assumed patch-translation variance in a separate patch-only experiment. The multiplier in (b) changes the variance used by the adjustment, while the observations are held fixed across treatments.",
+    "source": "E03/J11 c002 combined omission and c001 patch-variance scaling",
+    "files": {
+      "png": "Figure3.png",
+      "pdf": "Figure3.pdf",
+      "fig": "Figure3.fig"
+    },
+    "data_file": "Figure3_data.mat"
+  },
+  {
+    "id": "Figure4",
+    "caption": "Log-focal full-camera coverage is evaluated across observation noise levels and fixed and sampled control geometries.",
+    "source": "E02 and E04; F08/F10",
+    "files": {
+      "png": "Figure4.png",
+      "pdf": "Figure4.pdf",
+      "fig": "Figure4.fig"
+    },
+    "data_file": "Figure4_data.mat"
+  },
+  {
+    "id": "Figure5",
+    "caption": "Paired focal-coordinate displays and full-camera Wald tests reveal coordinate sensitivity in the narrow noise-sweep experiment.",
+    "source": "E02; narrow geometry G3, native focal-coordinate postprocessing",
+    "files": {
+      "png": "Figure5.png",
+      "pdf": "Figure5.pdf",
+      "fig": "Figure5.fig"
+    },
+    "data_file": "Figure5_data.mat"
+  },
+  {
+    "id": "FigureS13",
+    "caption": "Illustrative mean-covariance outlines and focal-axis extents distinguish marginal regions, joint slices and nonlinear coordinate mapping.",
+    "source": "E02; mean fitted covariance, Schur complement and nonlinear boundary mapping",
+    "files": {
+      "png": "FigureS13.png",
+      "pdf": "FigureS13.pdf",
+      "fig": "FigureS13.fig"
+    },
+    "data_file": "FigureS13_data.mat"
+  },
+  {
+    "id": "Figure6",
+    "caption": "Object-coordinate error and coverage are compared across reference planes in the narrow control geometry.",
+    "source": "E07; saved-camera target propagation",
+    "files": {
+      "png": "Figure6.png",
+      "pdf": "Figure6.pdf",
+      "fig": "Figure6.fig"
+    },
+    "data_file": "Figure6_data.mat"
+  },
+  {
+    "id": "FigureS9",
+    "caption": "Image-target error and coverage are compared across reference, narrow-depth and global-translation conditions.",
+    "source": "E07; saved-camera target propagation",
+    "files": {
+      "png": "FigureS9.png",
+      "pdf": "FigureS9.pdf",
+      "fig": "FigureS9.fig"
+    },
+    "data_file": "FigureS9_data.mat"
+  },
+  {
+    "id": "FigureS1",
+    "caption": "Hidden shared modes and camera parameter blocks determine analytical position scatter.",
+    "source": "F01",
+    "files": {
+      "png": "FigureS1.png",
+      "pdf": "FigureS1.pdf",
+      "fig": "FigureS1.fig"
+    },
+    "data_file": "FigureS1_data.mat"
+  },
+  {
+    "id": "FigureS2",
+    "caption": "Linear Gaussian experiments verify the analytical covariance and residual-energy identities.",
+    "source": "F02",
+    "files": {
+      "png": "FigureS2.png",
+      "pdf": "FigureS2.pdf",
+      "fig": "FigureS2.fig"
+    },
+    "data_file": "FigureS2_data.mat"
+  },
+  {
+    "id": "FigureS3",
+    "caption": "Reduced-camera experiments compare the effects of point density and independently supported planes.",
+    "source": "F03; F04",
+    "files": {
+      "png": "FigureS3.png",
+      "pdf": "FigureS3.pdf",
+      "fig": "FigureS3.fig"
+    },
+    "data_file": "FigureS3_data.mat"
+  },
+  {
+    "id": "FigureS4",
+    "caption": "Shared similarity perturbations affect camera scatter and coverage across control-point counts.",
+    "source": "F13",
+    "files": {
+      "png": "FigureS4.png",
+      "pdf": "FigureS4.pdf",
+      "fig": "FigureS4.fig"
+    },
+    "data_file": "FigureS4_data.mat"
+  },
+  {
+    "id": "FigureS5",
+    "caption": "Shared-error source experiments compare camera scatter, coverage and variance contributions.",
+    "source": "F14",
+    "files": {
+      "png": "FigureS5.png",
+      "pdf": "FigureS5.pdf",
+      "fig": "FigureS5.fig"
+    },
+    "data_file": "FigureS5_data.mat"
+  },
+  {
+    "id": "FigureS6",
+    "caption": "Supplementary diagnostics compare coverage, normalised estimation errors and parameter-block uncertainty.",
+    "source": "F12",
+    "files": {
+      "png": "FigureS6.png",
+      "pdf": "FigureS6.pdf",
+      "fig": "FigureS6.fig"
+    },
+    "data_file": "FigureS6_data.mat"
+  },
+  {
+    "id": "FigureS11",
+    "caption": "Residual diagnostics and position coverage are compared across noise, geometry and shared-error conditions.",
+    "source": "F11",
+    "files": {
+      "png": "FigureS11.png",
+      "pdf": "FigureS11.pdf",
+      "fig": "FigureS11.fig"
+    },
+    "data_file": "FigureS11_data.mat"
+  },
+  {
+    "id": "FigureS7",
+    "caption": "Fixed-design Gaussian, fixed-covariance nonlinear and fitted-covariance diagnostics separate sources of joint undercoverage.",
+    "source": "E01/E02/E03; fixed Gaussian and nonlinear diagnostics",
+    "files": {
+      "png": "FigureS7.png",
+      "pdf": "FigureS7.pdf",
+      "fig": "FigureS7.fig"
+    },
+    "data_file": "FigureS7_data.mat"
+  },
+  {
+    "id": "FigureS8",
+    "caption": "Second-order bias predictions are compared with empirical camera biases in units of Monte Carlo standard error.",
+    "source": "E02; directional second-order bias diagnostic",
+    "files": {
+      "png": "FigureS8.png",
+      "pdf": "FigureS8.pdf",
+      "fig": "FigureS8.fig"
+    },
+    "data_file": "FigureS8_data.mat"
+  },
+  {
+    "id": "FigureS10",
+    "caption": "Camera and position coverage respond differently to shared-variance misspecification and simplified covariance treatments.",
+    "source": "E03; F09 panels 1--2",
+    "files": {
+      "png": "FigureS10.png",
+      "pdf": "FigureS10.pdf",
+      "fig": "FigureS10.fig"
+    },
+    "data_file": "FigureS10_data.mat"
+  },
+  {
+    "id": "FigureS12",
+    "caption": "Stronger shared rotations increase covariance-omission effects as the number of control points grows.",
+    "source": "E05; selected stronger-rotation experiments",
+    "files": {
+      "png": "FigureS12.png",
+      "pdf": "FigureS12.pdf",
+      "fig": "FigureS12.fig"
+    },
+    "data_file": "FigureS12_data.mat"
+  }
+]
