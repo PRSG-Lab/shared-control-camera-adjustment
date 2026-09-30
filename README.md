@@ -1,8 +1,6 @@
 # Shared control errors: MATLAB reproducibility package
 
-Version 1.1.0 — companion code for **Shared control errors in single-image self-calibration and space resection: residual observability and confidence-region coverage**, manuscript v0.19.
-
-This package contains the original simulation engine, the later revision experiments, native focal-coordinate postprocessing, and MATLAB generation of **main Figures 2–6, 13 archival companion figures (S1–S13), main Tables 1–5 and 5 archival companion tables**. The experiment-ID crosswalk is exported separately. All plotted numerical arrays and table data are saved, including a consolidated `output.mat`. Figure 1 is author-prepared and excluded by default. Ready-made outputs are included under `reference_products/`; regeneration reads numerical data, not those images. The current update also reproduces the 27-condition reduced-model checks, exact historical reduced-model bootstrap intervals, and the 416,000-fit accounting.
+Version 1.1.0 — companion code for **Shared control errors in single-image self-calibration and space resection: residual observability and confidence-region coverage**
 
 ## Quick start
 
