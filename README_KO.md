@@ -1,6 +1,6 @@
 # 논문 v0.19 MATLAB 통합 재현 패키지
 
-버전 **1.1.0 (2026-09-30)**. 최종으로 사용된 `PR_Revision_MATLAB_v1`과 `PR_Native_Chart_Postprocess_v1`을 한 실행 체계로 통합했습니다. 본실험 엔진은 이름이 비슷한 옛 `JoG_MATLAB_v2` 폴더가 아니라, 최종 결과에 포함된 **JoG v2.1**입니다. 포함된 43개 엔진 파일과 원래 실행에 저장된 코드가 일치하는지 확인했습니다.
+버전 **1.1.0 (2026-09-30)**. 최종으로 사용된 `PR_Revision_MATLAB_v1`과 `PR_Native_Chart_Postprocess_v1`을 한 실행 체계로 통합했습니다.
 
 ## 가장 빠르게 결과 확인하기
 
